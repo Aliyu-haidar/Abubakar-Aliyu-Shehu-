@@ -1,2 +1,2 @@
 # Logisticreg
-Logistic Regression
+Logistic Regression From Scratch

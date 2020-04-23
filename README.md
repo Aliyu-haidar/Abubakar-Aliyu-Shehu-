@@ -1,2 +1,2 @@
 # Logisticreg
-Logistic Regression From Scratch ASA
+Logistic Regression From Scratch
